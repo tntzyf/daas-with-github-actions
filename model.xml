@@ -11,5 +11,6 @@
     <brand name="Candys|Sees"  platform="platform()"/>
     <product name="popcorn|chocklate" image="snack.jpg" brand="brand()"  platform="platform()"/>
     <sku name="sku" product="product()" brand="brand()" platform="platform()" create_time="createTime()"/>
+    <inventory name="s1 inventory" sku="sku()" stock="10000|[0,1000]" platform="platform()" />
 </root>
  
